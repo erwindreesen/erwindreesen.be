@@ -9,9 +9,7 @@ organizations:
 education:
   courses: []
 superuser: true
-user_groups:
-  - Researchers
-  - Visitors
+user_groups: []
 highlight_name: false
 title: Erwin Dreesen
 email: ""
