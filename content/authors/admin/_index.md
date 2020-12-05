@@ -1,7 +1,7 @@
 ---
 title: Erwin Dreesen
 role: Pharmacometrics researcher at KU Leuven
-avatar_filename: ""
+avatar_filename: erwin_dreesen-round.jpeg
 bio: ""
 interests:
   - Pharmacometrics
