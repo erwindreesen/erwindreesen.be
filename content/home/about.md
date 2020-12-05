@@ -20,7 +20,7 @@ design:
   columns: "2"
   # Use a dark navy background with light text.
   background:
-    color: 'navy'
+    color: 'white'
     text_color_light: true
 
 # Choose the user profile to display
