@@ -40,11 +40,10 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+ links:
+ - name: PubMed
+   url: https://pubmed.ncbi.nlm.nih.gov/33128934/
 
-url_PubMed: 'https://pubmed.ncbi.nlm.nih.gov/33128934/'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
