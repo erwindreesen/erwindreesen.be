@@ -18,6 +18,9 @@ social:
   - link: https://scholar.google.com/citations?user=ogFlYokAAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
+  - link: https://pubmed.ncbi.nlm.nih.gov/?term=Dreesen%2C+Erwin%5BAuthor%5D&sort=date&size=200
+    icon_pack: ai
+    icon: pubmed   
 organizations:
   - name: KU Leuven
     url: https://www.kuleuven.be/wieiswie/en/person/00064069
